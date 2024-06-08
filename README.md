@@ -41,15 +41,15 @@
 
 </div>
 
-📓 On going
+📓 On going</br>
 
   ☑ Javascript deep dive study 
 
-🧠 Completed 
+🧠 Completed </br>
 
-  ✅ Typescript Study
-  ✅ 멋쟁이 사자처럼 프론트엔드 스쿨 플러스 1기
-  ✅ 멋쟁시 사자처럼 프론트엔드 스쿨 6시
+  ✅ Typescript Study</br>
+  ✅ 멋쟁이 사자처럼 프론트엔드 스쿨 플러스 1기</br>
+  ✅ 멋쟁시 사자처럼 프론트엔드 스쿨 6시</br>
 
 
 
