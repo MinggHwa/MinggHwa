@@ -25,12 +25,14 @@
 
  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux2.svg" />
  </br></br>🛠 Tools 🛠</br></br>
+
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg" />
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg" />
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" /></br></br>
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" />
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" />
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" />
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg" />
 
 
 
