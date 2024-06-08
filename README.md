@@ -5,8 +5,8 @@
   🦾 Tech Stack 🦾
 
  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" /> 
- <img src="[https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg)" /> 
- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" /> 
+ <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg" /> 
+ <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" /> 
 
 💪 Studying 💪
  
