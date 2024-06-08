@@ -24,6 +24,7 @@
 ### </br></br>💪 Studying 💪 </br></br>
 
  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux2.svg" />
+ 
 ### </br></br>🛠 Tools 🛠</br></br>
 
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg" />
