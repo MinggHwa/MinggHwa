@@ -42,7 +42,7 @@
 
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SMH1101&theme=radical&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
+
 
 ### 
 <!--
