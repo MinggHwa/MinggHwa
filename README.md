@@ -4,9 +4,9 @@
   <img src="https://media1.tenor.com/m/6hVEKMxmQLUAAAAC/cat-laptop.gif" /></br></br>
   🦾 Tech Stack 🦾
 
-https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg
-
- <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" />
+ <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" /> 
+ <img src="[https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg](https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg)" /> 
+ <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" /> 
 
 💪 Studying 💪
  
