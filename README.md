@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=48&pause=1000&color=F796D1&background=000000&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+SMH1101's+github+%F0%9F%98%8E)](https://git.io/typing-svg)
 <div align="center">
   [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=48&pause=1000&color=F796D1&background=000000&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+SMH1101's+github+%F0%9F%98%8E)](https://git.io/typing-svg) 
 
