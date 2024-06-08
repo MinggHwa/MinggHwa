@@ -15,8 +15,7 @@
   <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss2.svg" /> 
    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/styled-components/styled-components2.svg" /> 
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Supabase/supabase1.svg" /> </br></br>
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier1.svg" />
-    
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier1.svg" /> 
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" />
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint1.svg" /></br></br>
     
