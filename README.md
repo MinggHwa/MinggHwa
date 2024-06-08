@@ -2,7 +2,7 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&pause=1000&color=000000&center=true&vCenter=true&random=false&width=700&height=70&lines=Welcome+to+SMH1101's+github+%F0%9F%93%8C)](https://git.io/typing-svg)-->
 <div align="center">
-  <img src="https://media1.tenor.com/m/6hVEKMxmQLUAAAAC/cat-laptop.gif" />
+  <img src="https://media1.tenor.com/m/6hVEKMxmQLUAAAAC/cat-laptop.gif" /></br>
   🦾 Tech Stack 🦾
 
 https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg
