@@ -43,7 +43,7 @@
 
 #### 📓 On going</br>
 
-  ▫ Javascript deep dive study 
+  ◽ Javascript deep dive study 
 
 #### 🧠 Completed </br>
 
