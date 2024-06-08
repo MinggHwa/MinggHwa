@@ -1,4 +1,4 @@
-### 안녕하세요 frontend 개발자입니다 😎 Hi there welcome 👋 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=48&pause=1000&color=F796D1&background=000000&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+SMH1101's+github+%F0%9F%98%8E)](https://git.io/typing-svg) 
 
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
