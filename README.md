@@ -1,5 +1,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=48&pause=1000&color=F796D1&background=000000&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+SMH1101's+github+%F0%9F%98%8E)](https://git.io/typing-svg) 
 
+//[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&pause=1000&color=000000&center=true&vCenter=true&random=false&width=700&height=70&lines=Welcome+to+SMH1101's+github+%F0%9F%93%8C)](https://git.io/typing-svg)
+
+ Tech Stack 
+
+https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg
+
+ <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" />
+
+ Studying 
+ 
+ Tools
+ 
+ Contact
+
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
