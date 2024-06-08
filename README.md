@@ -24,9 +24,10 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass2.svg" />
 
 
-💪 Studying 💪
- 
-🛠 Tools 🛠</br></br>
+ </br></br>💪 Studying 💪 </br></br>
+
+ <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux2.svg" />
+ </br></br>🛠 Tools 🛠</br></br>
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg" />
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg" />
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg" /></br></br>
@@ -35,10 +36,6 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" />
  Contact
 
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
- <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
- <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SMH1101&theme=radical&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
  
