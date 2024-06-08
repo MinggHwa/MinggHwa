@@ -19,6 +19,9 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html2.svg" />
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ESLint/eslint1.svg" /></br></br>
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass2.svg" />
+    <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />
+    <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" /></br></br>
+    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
 
 
 <!--### </br></br>💪 Studying 💪 </br></br>
