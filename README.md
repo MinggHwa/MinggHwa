@@ -41,11 +41,11 @@
 
 </div>
 
-📓 On going</br>
+#### 📓 On going</br>
 
   ☑ Javascript deep dive study 
 
-🧠 Completed </br>
+#### 🧠 Completed </br>
 
   ✅ Typescript Study</br>
   ✅ 멋쟁이 사자처럼 프론트엔드 스쿨 플러스 1기</br>
