@@ -34,13 +34,15 @@
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" />
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" />
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" />
- Contact
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SMH1101&theme=radical&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
+
+
  
 
 </div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SMH1101&theme=radical&mode=weekly&hide_longest_streak=true)](https://git.io/streak-stats)
 
 ### 
 <!--
