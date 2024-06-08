@@ -5,7 +5,7 @@
 
 
   
-  🦾 Front-End Tech Stack 🦾
+###  🦾 Front-End Tech Stack 🦾
 </br></br>
 
   
@@ -21,10 +21,10 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Sass/sass2.svg" />
 
 
- </br></br>💪 Studying 💪 </br></br>
+### </br></br>💪 Studying 💪 </br></br>
 
  <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Redux/redux2.svg" />
- </br></br>🛠 Tools 🛠</br></br>
+### </br></br>🛠 Tools 🛠</br></br>
 
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg" />
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/macOS/macos1.svg" />
