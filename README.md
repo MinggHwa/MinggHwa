@@ -42,11 +42,11 @@
 #### 📓 On going</br>
 
   ◽ Blogging</br>
-  ◽ [Javascript deep dive study](http://www.google.co.kr).
+  ◽ [Javascript deep dive study](https://github.com/MyoungHwaShin/js-deepdive-study).
 
 #### </br></br>🧠 Completed </br>
 
-  ✅ Typescript Study</br>
+  ✅ [Typescript Study](https://github.com/MyoungHwaShin/mtsStudy). </br>
   ✅ 멋쟁이 사자처럼 프론트엔드 스쿨 플러스 1기</br>
   ✅ 멋쟁시 사자처럼 프론트엔드 스쿨 6시</br>
 
