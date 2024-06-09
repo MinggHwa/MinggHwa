@@ -41,7 +41,8 @@
 
 #### 📓 On going</br>
 
-  ◽ Javascript deep dive study 
+  ◽ Blogging</br>
+  ◽ [Javascript deep dive study](http://www.google.co.kr).
 
 #### </br></br>🧠 Completed </br>
 
