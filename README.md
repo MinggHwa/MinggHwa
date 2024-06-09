@@ -37,13 +37,13 @@
      <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" />
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode2.svg" />
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/ViteJS/vitejs2.svg" />
-    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg" />
+    <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Vercel/vercel1.svg" /></br></br>
 
 #### 📓 On going</br>
 
   ◽ Javascript deep dive study 
 
-#### 🧠 Completed </br>
+#### </br></br>🧠 Completed </br>
 
   ✅ Typescript Study</br>
   ✅ 멋쟁이 사자처럼 프론트엔드 스쿨 플러스 1기</br>
