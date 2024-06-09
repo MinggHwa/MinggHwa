@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"></br></br></br></br>
   <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=48&pause=1000&color=F796D1&background=000000&center=true&vCenter=true&random=false&width=600&height=60&lines=Welcome+to+SMH1101's+github+%F0%9F%98%8E" /> </br></br>
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=60&pause=1000&color=000000&center=true&vCenter=true&random=false&width=700&height=70&lines=Welcome+to+SMH1101's+github+%F0%9F%93%8C)](https://git.io/typing-svg)-->
   <img src="https://media1.tenor.com/m/6hVEKMxmQLUAAAAC/cat-laptop.gif" /></br></br>
