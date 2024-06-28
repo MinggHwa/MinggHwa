@@ -42,7 +42,7 @@
 #### 📓 On going</br>
 
   ◽ Blogging</br>
-  ◽ [Javascript deep dive study](https://github.com/MyoungHwaShin/js-deepdive-study).
+  ◽ [Javascript deep dive study](https://github.com/MinggHwa/js-deepdive-study).
 
 #### </br></br>🧠 Completed </br>
 
