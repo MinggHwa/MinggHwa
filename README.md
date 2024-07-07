@@ -42,6 +42,7 @@
 #### 📓 On going</br>
 
   ◽ Blogging</br>
+  ◽ [Javascript Info Study](https://github.com/MinggHwa/Javascript-Info-Study))
   
 
 #### </br></br>🧠 Completed </br>
