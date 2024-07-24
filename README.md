@@ -42,7 +42,7 @@
 #### 📓 On going</br>
 
   ◽ Blogging</br>
-  ◽ [Javascript Info Study](https://github.com/MinggHwa/Javascript-Info-Study)
+  ◽ [Javascript Info Study](https://github.com/MinggHwa/Javascript-Info-Study)</br>
   ◽[기능구현스터디](https://github.com/Improved-Lion/Login-Ming)
   
 
